@@ -1,0 +1,23 @@
+body{
+	background-image: url("./Ferme.jpg");
+}
+
+a{
+	font: bold italic large serif;
+	color: #ff0000;
+}
+
+label{
+	color: #0b1bd0;
+	text-decoration: underline;
+}
+
+th{
+	background-color: #83fe01;
+	font: bold italic large serif;
+}
+
+td{
+	text-align: center;
+	background-color: #f0fe01;
+}
